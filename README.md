@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sallsworth/Development/_apis/build/status/StevePalls.Pipelines?branchName=master)](https://dev.azure.com/sallsworth/Development/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
